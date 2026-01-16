@@ -1,5 +1,8 @@
 ![Synapse banner](../images/banner.jpeg)
 
+[Devpost link](https://devpost.com/software/synapse-n7hwr3)
+[Youtube demo](https://www.youtube.com/watch?v=nuEoH_5YOi4)
+
 Synapse decodes tone, emotion, and intent so online conversations feel human again.
 It unifies text, voice, and facial cues into one emotional language, making messages clearer and more empathetic.
 
